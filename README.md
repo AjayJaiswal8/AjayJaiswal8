@@ -1,3 +1,4 @@
+<img width="3780" height="1890" alt="Blue and White Futuristic Artificial Intelligence Technology Banner" src="https://github.com/user-attachments/assets/fa8435ed-9726-459a-b485-4f9b977f41c6" />
 
 <h1 align="center">Hi 👋, I'm Ajay Kumar Jaiswal</h1>
 <h3 align="center">A passionate Data Scietist from India</h3>
